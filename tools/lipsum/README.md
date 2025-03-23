@@ -126,4 +126,4 @@ This project uses a Makefile for building, installing, and uninstalling the bina
 
 ---
 
-Feedback, contributions, and improvements are welcome but this is mostly a useless shitter project. Email me if you find this though, I'm curious to see if anyone reads this.
+Feedback, contributions, and improvements are welcome but this is mostly a useless shitter project. Email me if you find this though, I'm curious to see if anyone reads this. If you find ts, email me.
